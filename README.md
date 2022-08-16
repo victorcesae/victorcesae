@@ -10,10 +10,10 @@
 </div>  
  
 <a href="https://github.com/victorcesae#gh-light-mode-only">
-  <img src="https://github.com/victorcesae/victorcesae/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake Animation Light" />
+  <img src="https://github.com/victorcesae/victorcesae/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation Light" />
 </a>
 <a href="https://github.com/victorcesae#gh-dark-mode-only">
-  <img src="https://github.com/victorcesae/victorcesae/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark" />
+  <img src="https://github.com/victorcesae/victorcesae/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
 </a>
   
 ![ocean](https://github.com/victorcesae/victorcesae/blob/output/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
