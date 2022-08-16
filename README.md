@@ -10,4 +10,4 @@
 </div>
 ##  
   
-![Snake animation](https://github.com/victorcesae/victorcesae/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)  
+![Snake animation](https://github.com/victorcesae/victorcesae/blob/output/github-contribution-grid-snake-dark.svg)  
