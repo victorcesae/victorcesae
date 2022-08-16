@@ -9,5 +9,4 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcesae&layout=compact&langs_count=7&theme=dracula"/>
 </div>  
  
-![Snake animation Light](https://github.com/victorcesae/victorcesae/blob/output/github-snake.svg#gh-light-mode-only)
-![Snake animation dark](https://github.com/victorcesae/victorcesae/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation dark](https://github.com/victorcesae/victorcesae/blob/output/github-snake-dark.svg)
