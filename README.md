@@ -12,8 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=victorcesae&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-
-
+## 🏆 GitHub Commits
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -28,7 +27,6 @@
     src="https://raw.githubusercontent.com/victorcesae/victorcesae/output/github-contribution-grid-snake.svg"
   />
 </picture>
-  
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -36,6 +34,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=victorcesae&icon=4&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![ocean](https://github.com/victorcesae/victorcesae/blob/output/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
  
