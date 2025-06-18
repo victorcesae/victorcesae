@@ -12,7 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=victorcesae&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏆 GitHub Commits
+## ♻️ GitHub Commits
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
