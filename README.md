@@ -1,11 +1,12 @@
 ### Hey!!! I'm Victor Evangelista.
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/victorcesae">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorcesae&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcesae&layout=compact&langs_count=7&theme=dracula"/>
-</div>  
+</div>   -->
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
